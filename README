@@ -1,7 +1,9 @@
 Terdapat error terhadap Package Vuforia ketika mendownload source code dari github dan menjalankannya di unity
 Untuk mengatasinya, user dapat mendownload dan mengimport ulang Package Vuforia agar project dapat berjalan dengan normal
 
-*Untuk simulatornya berjalan dengan optimal di layar 2160 x 1080 Portrait
+Important Notes:
+- Untuk simulatornya berjalan dengan optimal di layar 2160 x 1080 Portrait
+- Beberapa device bisa berjalan (Samsung A30, Oppo F7, Samsung Note 8, Oppo A95) dan beberapa mengalami black screen saat berada di halaman kamera (Samsung S10+, Xiaomi Mi 10T)
 
 Kelompok 2 - LA03 - Wearable Technology
 + 2440012094 - Andrew Sterling Reinhart Wijaya
