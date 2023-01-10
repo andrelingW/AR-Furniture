@@ -1,2 +1,3 @@
 Terdapat error terhadap Package Vuforia ketika mendownload source code dari github dan menjalankannya di unity
-Untuk mengatasinya, user dapat mendownload dan mengimport ulang Package Vuforia agar dapat berjalan kembali
+Untuk mengatasinya, user dapat mendownload dan mengimport ulang Package Vuforia agar project dapat berjalan dengan normal
+
