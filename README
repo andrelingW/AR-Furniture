@@ -1,7 +1,23 @@
-Terdapat error terhadap Package Vuforia ketika mendownload source code dari github dan menjalankannya di unity
-Untuk mengatasinya, user dapat mendownload dan mengimport ulang Package Vuforia agar project dapat berjalan dengan normal
+# AR Furniture App
 
-Important Notes:
-- Untuk simulatornya berjalan dengan optimal di layar 2160 x 1080 Portrait
+An augmented reality (AR) application that showcases a furniture catalog using the Vuforia Engine. By scanning a catalog page, a 3D model of the furniture appears on top of it, allowing users to interact with the object by rotating and moving it in the AR space.
 
-2440012094 - Andrew Sterling Reinhart Wijaya
+## Features
+
+- **AR Furniture Placement**: Scan a catalog page to view the corresponding furniture in augmented reality.
+- **Interactive Controls**: Rotate and move the 3D furniture model within the AR environment.
+- **Buy Now Button**: Direct link to purchase the corresponding furniture product from online stores like Shopee or Tokopedia.
+- **Immersive Experience**: Explore the furniture's appearance in real-world settings with AR.
+
+## Technologies Used
+
+- **Vuforia Engine**: For marker-based AR functionality.
+- **Unity**: To build the AR application.
+- **C#**: For scripting and interactivity.
+- **3D Models**: Furniture models integrated into the app.
+
+## App Demonstration
+https://youtu.be/JkqAwMSSz4g?si=AuGXrwuE_sEzUzov
+
+## Catalogue
+https://www.figma.com/design/hB0TSJ1viHBtKJ1HTZduEc/Prototype?node-id=0-1&t=5nj1BlCbAPdjhymX-1
